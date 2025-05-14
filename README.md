@@ -1,0 +1,7 @@
+Используя Solana JSON RPC API, реализовал функцию для одновременного получения текущего баланса указанных кошельков
+пример вывода: 
+
+6pZMz6S2xFzQX8d3EepDmj1YKgcwA7MeBXYLsRb8nDdy: 0 lamports
+5E2iqsoLkUpRQfD4Tuk6msr3kK4GVD5BBU9xKaKZMi1o: 0 lamports
+7MBqSoh7dBnB1c3ZHEvW7hXhXQMKGuFxL1b9z3qZFEFv: 0 lamports
+3i9pT6F4i9DSoAZ74t6Rk1SK5yLgkzftAKk7KkmMBmrB: 0 lamports
